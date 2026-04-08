@@ -148,10 +148,9 @@ When a client sends a message → Server receives it → Broadcasts to **all oth
 
 ## 👨‍💻 Author
 
-**Gaurav**
+**Gaurav**,**Priyanshu**
 B.Tech — Information Technology
 MUJ Manipal University Jaipur
-Course: Computer Networks (INT3201)
 
 ---
 
